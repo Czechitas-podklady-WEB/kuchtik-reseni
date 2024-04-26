@@ -1,0 +1,117 @@
+[
+  {
+    "id": 0,
+    "title": "Salát z červené řepy s kozím sýrem",
+    "image": "https://www.rohlik.cz/cdn-cgi/image/f=auto,fit=cover,g=0.5x0.5,w=2900,h=1300/https://cdn.rohlik.cz/images/meals/large/375.jpg",
+    "portions": 4,
+    "ingredients": [
+      "800 g vařené červené řepy",
+      "100 g piniových semínek",
+      "400 g měkkého čerstvého kozího sýra",
+      "hrst mladých lístků řepy",
+      "extra panenský olivový olej",
+      "čerstvě mletý pepř",
+      "6 lžic extra panenského olivového oleje",
+      "4 lžíce balzamikového octa",
+      "lžíce medu",
+      "čerstvě mletý pepř",
+      "sůl"
+    ],
+    "directions": [
+      "Uvařenou řepu oloupeme, nakrájíme na kostky o hraně 1 cm a dáme do mísy.",
+      "V misce smícháme med, ocet, sůl a pepř. Postupně metličkou vmícháme olej. Dresink nalijeme na červenou řepu, promícháme a dáme stranou.",
+      "V rozehřáté pánvi na středním ohni nasucho za stálého míchání orestujeme dozlatova piniová semínka a dáme je stranou.",
+      "Na talíř dáme část nakrájené řepy s dresinkem, část řepných lístků, kozího sýra rozdrobeného na kousky a piniových semínek. Salát zakápneme olivovým olejem a dochudíme čerstvě mletým pepřem."
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Kuřecí burrito",
+    "image": "https://www.rohlik.cz/cdn-cgi/image/f=auto,fit=cover,g=0.5x0.5,w=2900,h=1300/https://cdn.rohlik.cz/images/meals/large/833.jpg",
+    "portions": 4,
+    "ingredients": [
+      "10 cherry rajčat",
+      "2 avokáda",
+      "2 nakládané jalapeño papričky",
+      "2 oloupané stroužky česneku",
+      "zelená část ze 2 jarních cibulek",
+      "6 lžic olivového oleje",
+      "2 lžíce najemno nakrájeného koriandru",
+      "2 lžíce citronové šťávy",
+      "1 lžička soli",
+      "4 tortilly",
+      "2 kuřecí prsa bez kůže",
+      "2 avokáda",
+      "8 plátků slaniny",
+      "4 lžíce najemno nakrájeného koriandru",
+      "3 lžíce olivového oleje",
+      "mletý pepř",
+      "sůl"
+    ],
+    "directions": [
+      "Troubu rozehřejeme na 180 °C.",
+      "Slaninu opečeme nasucho v pánvi dozlatova a dáme stranou. Avokáda podélně rozkrojíme na poloviny. Vyndáme pecku, dužninu oloupeme a nakrájíme na plátky.",
+      "Maso vydatně osolíme a opepříme z obou stran. Na vyšším ohni v pánvi rozehřejeme olivový olej a maso na něm opečeme z každé strany 2 minuty. Poté ho položíme na plech a vložíme do trouby na 12 minut.",
+      "Hotové maso přendáme z plechu na talíř a necháme ho 5 minut odpočinout. Pak ho nakrájíme na silnější plátky.",
+      "Na středním ohni v pánvi krátce nasucho prohřejeme tortillu. Stačí 20 vteřin.",
+      "Na polovinu tortilly položíme osminu guacamole, na ně čtvrtinu masa, na ně čtvrtinu avokáda, čtvrtinu slaniny, čtvrtinu koriandru a nakonec další osminu guacamole. Zabalíme. Takto připravíme všechny tortilly.        "
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Chleba s máslem",
+    "image": "https://dkopen.cz/image/cache/Obraz111-1200x900.jpg",
+    "portions": 1,
+    "ingredients": [
+      "chléb",
+      "máslo",
+      "pažitka"
+    ],
+    "directions": [
+      "Namažte chleba máslem.",
+      "Nakrájejte pažitku nadrobno.",
+      "Posypte chléb pažitkou."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Svíčková omáčka",
+    "image": "https://www.rohlik.cz/cdn-cgi/image/f=auto,fit=cover,g=0.5x0.5,w=2900,h=1300/https://cdn.rohlik.cz/images/meals/large/661c.jpg",
+    "portions": 4,
+    "ingredients": [
+      "1,2 kg hovězí loupané plece, falešné svíčkové nebo válečku",
+      "250 g oloupané mrkve",
+      "200 g oloupaného celeru",
+      "200 g oloupané petržele",
+      "300 g oloupané cibule",
+      "200 g jablek zbavených jádřinců",
+      "100 g cukru krupice",
+      "100 g špeku",
+      "60 g másla",
+      "250 ml smetany, min. 31%",
+      "150 ml suchého bílého vína",
+      "100 ml octa",
+      "3 lžíce jíšky",
+      "2 lžíce plnotučné hořčice",
+      "1,5 lžíce sádla",
+      "1 citron",
+      "5 snítek čerstvého tymiánu",
+      "1 větvička čerstvého rozmarýnu",
+      "6 bobkových listů",
+      "10 kuliček nového koření",
+      "10 kuliček černého pepře",
+      "mletý pepř",
+      "sůl"
+    ],
+    "directions": [
+      "Špek nakrájíme na špalíčky 0,5 cm široké a 4 cm dlouhé a vložíme je na 15 minut do mrazáku. Koření a bylinky pevně zavážeme do gázy nebo plátýnka. Mrkev, celer a petržel nakrájíme na kostičky o hraně 1 cm. Cibuli nakrájíme nahrubo. Jablko oloupeme a dužninu nakrájíme na kostky o hraně 1 cm.",
+      "V mase na několika místech úzkým nožem prořízneme kapsy, do kterých vsuneme namražené špalíčky špeku. Maso důkladně osolíme a opepříme čerstvě mletým pepřem ze všech stran. V kastrolu na vyšším ohni rozpálíme sádlo a maso na něm opečeme ze všech stran dohněda. Maso vyndáme na čistý talíř.",
+      "Snížíme oheň pod polovinu, do kastrolu přidáme máslo a případně špek, který zbyl ze špikování masa. Přidáme mrkev, celer a petržel a za častého míchání je orestujeme dozlatova. Přidáme cibuli a orestujeme ji dozlatova. Přidáme jablko a i to orestujeme dozlatova. Často mícháme.",
+      "Přidáme cukr, zamícháme a necháme ho rozpustit. Přidáme hořčici a pytlíček koření. Promícháme. Přilijeme ocet a necháme ho zcela vyvařit, takže na dně kastrolu zbude opět jen tuk. Žádná tekutina. Zalijeme vínem, které necháme odvařit na polovinu objemu. Vložíme maso a zalijeme ho horkou vodou, tak aby bylo téměř ponořené. Přidáme 1 lžičku soli.",
+      "Přivedeme k varu, stáhneme oheň na minimum, přiklopíme poklicí a necháme pomalu dusit 2,5 hodiny nebo než bude maso zcela měkké. Poté vyjmeme sáček s kořením a maso, které dáme stranou na teplé místo.",
+      "Na jemném struhadle nastrouháme žlutou část kůry z poloviny omytého citronu a přidáme ji do omáčky společně s jíškou. Promícháme, přivedeme k varu, stáhneme oheň pod třetinu a vaříme 15 minut.",
+      "Třetinu zeleniny z omáčky odebereme plochým sítkem a vyhodíme. Do omáčky přilijeme smetanu, zbylou zeleninu v omáčce rozmixujeme dohladka a přepasírujeme přes jemné síto do čistého kastrolu.",
+      "Omáčku dochutíme solí a trochou citronové šťávy dle chuti a zamícháme. Maso nakrájíme na plátky a prohřejeme v hotové omáčce. Podáváme s brusinkovou marmeládou a karlovarským knedlíkem."
+    ]
+  }
+]
